@@ -1,5 +1,5 @@
 -  I’m @Rand3r aka rxndr
--  interested in: Hacks (Minecraft currently), Mods (Minecraft)
+-  interested in: Hacks (Minecraft, CS2 currently), Mods (Minecraft)
 -  I’m currently learning Python, Java
 -  How to reach me: You cannot
 -  Uploaded for testing github
